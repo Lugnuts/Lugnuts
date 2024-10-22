@@ -4,7 +4,7 @@ I'm an Analyst Programmer / Software Engineer / Solution Architect.
 
 I have experience designing and building robust production software and running development and production support teams.
 
-Most recently I worked as an Enterprise Architect for a large corporation but I don't plan on making that mistake again.
+Most recently I worked as an Enterprise Architect for a large corporation.
 
 I like building Apps, Websites, APIs, and Payment Systems and I'm good at analyzing business requirements, designing software solutions, and writing code to implement those solutions.
 
