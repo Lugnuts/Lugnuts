@@ -1,18 +1,15 @@
 # Hi, I'm Mike
 
-I'm an Analyst Programmer / Software Engineer / Solution Architect.
+I'm a Software Engineer and Architect with a passion for crafting software solutions.
 
-I have experience designing and building robust production software and running development and production support teams.
+Most recently, I worked in Solution and Enterprise Architecture roles for major corporations, where I honed my skills in designing and implementing business critical payment systems.
 
-Most recently I worked as an Enterprise Architect for a large corporation.
-
-I like building Apps, Websites, APIs, and Payment Systems and I'm good at analyzing business requirements, designing software solutions, and writing code to implement those solutions.
-
-I know a lot about payment systems in Australia and I'm currently working on innovative uses for existing technologies.
+I'm currently exploring innovative ways to leverage existing technologies for new possibilities.
 
 ### Skills and Experience
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg' alt='android' height='40'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg' alt='java' height='40'> 
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg' alt='android' height='40'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg' alt='java' height='40'> 
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original-wordmark.svg' alt='elixir' height='40'> 
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='40'> 
 <img src='https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg' alt='kafka' height='40'> 
