@@ -11,42 +11,45 @@ These days, I’ve stepped back from the corporate grind and am channeling my ex
 <td width="33%">
 
 ### Languages
-![C](https://img.shields.io/badge/-C-000?&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
-![Go](https://img.shields.io/badge/-Go-000?&logo=go)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
+![C](https://img.shields.io/badge/-C-000?logo=c)
+![C++](https://img.shields.io/badge/-C++-000?logo=c%2B%2B)
+![Go](https://img.shields.io/badge/-Go-000?logo=go)
+![Java](https://img.shields.io/badge/-Java-000?logo=openjdk)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![HTML5](https://img.shields.io/badge/HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?&logo=css)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)
+![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?logo=css)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?logo=tailwind-css)
 
 </td>
 
 <td width="34%">
 
 ### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)  
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+![Grafana](https://img.shields.io/badge/-Grafana-000?logo=grafana)  
+![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)
+![Spring](https://img.shields.io/badge/-Spring-000?logo=Spring)
 
 ### MAINFRAME
-![COBOL](https://img.shields.io/badge/-COBOL-054ADA?&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/-IBM_CICS/DB2-054ADA?style=flat&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/-IMS_DB/DC-054ADA?style=flat&logo=ibm&logoColor=white)
+![COBOL](https://img.shields.io/badge/-COBOL-054ADA?logo=ibm&logoColor=white)
+![IBM](https://img.shields.io/badge/-IBM_CICS/DB2-054ADA?logo=ibm&logoColor=white)
+![IBM](https://img.shields.io/badge/-IMS_DB/DC-054ADA?logo=ibm&logoColor=white)
 
 </td>
 <td width="33%">
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle)
+![Oracle](https://img.shields.io/badge/-Oracle-000?logo=oracle)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=sqlite)
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-000?style=flat&logo=influxdb)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-000?logo=timescale)
+
 
 ### Messaging & Streaming
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-000?style=flat&logo=apache-kafka)
